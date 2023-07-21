@@ -11,7 +11,7 @@ h1{
 	
 }
 .container div{
-	border: 2px solid blue;
+	border: 2px solid darkgray;
 	width: 150px;
 	height: 150px;
 	display: flex;
@@ -20,6 +20,8 @@ h1{
 	font-size: 50px;
 	margin-left: 30px;
 	margin-right: 30px;
+	color: darkgray;
+	background-color: black;
 }
 .container span{
 	font-size: 50px;
